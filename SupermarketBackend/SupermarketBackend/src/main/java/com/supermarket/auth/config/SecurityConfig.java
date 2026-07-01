@@ -43,8 +43,7 @@ public class SecurityConfig {
                 "http://127.0.0.1:*",
                 "http://10.72.223.196:*",
                 "https://*.loca.lt",
-                
-                "https://*.vercel.app",
+                "https://*.vercel.app"
         ));
         configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"));
         configuration.setAllowedHeaders(List.of("*"));
