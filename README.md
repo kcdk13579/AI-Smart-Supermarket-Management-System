@@ -285,11 +285,11 @@ screenshots/esp32.png
 
 🎓 B.Tech – Computer Science Engineering
 
-📧 Email: *(Add your email)*
+📧 Email: Kcdk13579@gmail.com
 
 🔗 GitHub: https://github.com/kcdk13579
 
-🔗 LinkedIn: *(Add your LinkedIn URL)*
+ 
 
 ---
 
